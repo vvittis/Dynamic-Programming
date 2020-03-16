@@ -18,9 +18,9 @@
 
 Ένα παράδειγμα μορφής εκτύπωσης είναι:
 
-Level 3: Player 1 is playing and wants to maximize  
-Left aka node-2(d): 7 Right aka node-5(D): -12  
-The optimal move is d  
+Level **3**: **Player 1** is playing and wants to maximize  
+Left aka node-2(d): **7** Right aka node-5(D): **-12**  
+The optimal move is **d**  
 
 ### Τρόπος Εκτέλεσης
 
