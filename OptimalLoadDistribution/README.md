@@ -23,4 +23,4 @@ We first constructed the problem grid based on the program inputs with: <br>
 ## Finding Optimal Control and Transition Costs
    During this process we find for each node of each level the transition cost that maximizes the load value criterion. This results in the optimal red transitions shown in the image below.
 
-![](../Photos/main2.png "Photo1")
+![](../Photos/main2.png "Photo2")
