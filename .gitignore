@@ -1,1 +1,3 @@
-SevenMatchSticks/
+SevenMatchSticks/.idea
+SevenMatchsticks/cmake-build-debug
+SevenMatchsticks/CMakeLists.txt
