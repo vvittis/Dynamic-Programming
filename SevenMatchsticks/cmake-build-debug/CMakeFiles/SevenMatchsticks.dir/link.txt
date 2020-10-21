@@ -1,3 +1,0 @@
-C:\Users\Vasilis\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\193.6494.38\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\SevenMatchsticks.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\SevenMatchsticks.dir/objects.a @CMakeFiles\SevenMatchsticks.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\SevenMatchsticks.dir/objects.a -Wl,--no-whole-archive  -o SevenMatchsticks.exe -Wl,--out-implib,libSevenMatchsticks.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SevenMatchsticks.dir\linklibs.rsp
